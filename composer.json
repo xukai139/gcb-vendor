@@ -1,14 +1,15 @@
 {
     "name": "xukai139/gcb-vendor",
-    "description": "Third party message push",
+    "description": "gcb-vendor",
     "authors": [
         {
-            "name": "Yanlong Ma"
+            "name": "xukai139",
+            "email": "a625689377@qq.com"
         }
     ],
     "license": "MIT",
     "require": {
-        "php": ">=5.3"
+        "php": ">=7.1"
     },
     "autoload": {
         "psr-4": {
